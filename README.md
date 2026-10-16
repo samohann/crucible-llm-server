@@ -8,7 +8,6 @@ Run custom GGUF language models locally on iPad and iPhone. Serve them through a
 - **OpenAI-compatible API** — serves `/v1/chat/completions` so any client that speaks OpenAI can talk to your iPad
 - **HuggingFace downloads** — browse and download models directly in the app
 - **Server mode** — toggle the HTTP server on/off, see your IP and port in the UI
-- 
 - **Default models** — ships with Gemma 3 4B and Qwen 3.5 4B in the download list
 - **Zero cloud** — your model, your device, your data
 
@@ -68,3 +67,5 @@ The workflow builds the llama.cpp xcframework from source, then compiles the iOS
 ## License
 
 MIT
+
+
