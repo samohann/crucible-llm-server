@@ -68,4 +68,3 @@ The workflow builds the llama.cpp xcframework from source, then compiles the iOS
 
 MIT
 
-
